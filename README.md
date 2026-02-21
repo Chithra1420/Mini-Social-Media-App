@@ -8,7 +8,7 @@ It is developed as part of learning Django and for internship project submission
 ---
 ## 📸 Project Preview
 
-![Mini Social Media App Screenshot](Screenshot.png)
+![Mini Social Media App Screenshot]Screenshot.png
 ## 🚀 Features
 
 - User Registration and Login Authentication
