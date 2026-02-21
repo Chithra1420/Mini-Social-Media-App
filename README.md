@@ -6,7 +6,9 @@ This project allows users to register, login, create posts, like posts, and view
 It is developed as part of learning Django and for internship project submission.
 
 ---
+## 📸 Project Preview
 
+![Mini Social Media App Screenshot](screenshot.png)
 ## 🚀 Features
 
 - User Registration and Login Authentication
